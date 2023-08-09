@@ -45,7 +45,7 @@ const Footer = () => {
           />
         )}
       </div>
-      <div className='author'>
+      {/* <div className='author'>
         Made by:
         <a
           href={CONSTANTS.AUTHOR_GITHUB_LINK}
@@ -55,7 +55,7 @@ const Footer = () => {
         >
          {CONSTANTS.AUTHOR}
         </a>
-      </div>
+      </div> */}
     </div>
   );
 };
