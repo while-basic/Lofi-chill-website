@@ -51,7 +51,7 @@ const Header = () => {
           href={CONSTANTS.AUTHOR_GITHUB_LINK}
         >
           <i className='fab fa-github'></i>
-          <span>GitHub</span>
+          <span>Lofi Chill</span>
         </a>
         <div onClick={daynightHandler}>
           <DarkLightSwitch theme={mode} />
