@@ -1,4 +1,4 @@
 export const CONSTANTS  = {
-    'AUTHOR': 'Nguyen Duc Dung',
+    'AUTHOR': 'C. Celaya',
     'AUTHOR_GITHUB_LINK': 'https://chriscelaya-portfolio.vercel.app/',
 }
